@@ -2,5 +2,7 @@
 Backend of the facial recognition website project
 # Usage
 `npm install` <br>
-installs necessary packages
+installs necessary packages <br>
+`npm start` <br>
+Starts backend server on localhost
 
